@@ -1,0 +1,12 @@
+page\Recherche.class
+page\Resultat.class
+randomTest\PresenceElementResultatTest.class
+page\Random.class
+page\PageErreurSup.class
+verify\Verify.class
+randomTest\ValeurDefautTest.class
+page\PageErreurInvalide.class
+page\PlayingCard.class
+randomTest\MoteurTest.class
+randomTest\AccesPageTest.class
+randomTest\PresenceElementTest.class
